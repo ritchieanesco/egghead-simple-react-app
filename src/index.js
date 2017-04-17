@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './AppMap';
+import App from './AppHigherOrderComponents';
 
 ReactDOM.render(
   <App cat={5} />,
