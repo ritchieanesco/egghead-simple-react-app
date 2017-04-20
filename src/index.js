@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './AppChildren';
+import App from './AppClone';
 
 ReactDOM.render(
   <App cat={5} />,
